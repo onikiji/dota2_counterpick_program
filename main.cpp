@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	cout << "dota 2 counterpick" << endl <<"21.05.2023"<<endl<< "----------------------------------"<<endl<< "1.pudge" << endl << "2.tinker" << endl << "3.rubick" << endl << "----------------------------------";
+	cout << "dota 2 counterpick" << endl <<"21.05.2023"<<endl<< "----------------------------------"<<endl<< "[1]pudge" << endl << "[2]tinker" << endl << "[3]rubick" << endl << "----------------------------------";
 	int b,a;
 	int c = 2;	
 	for (b = 1; b <c;) {
